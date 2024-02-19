@@ -1,3 +1,2 @@
-Nama
-hobby
-hewan kesukaan
+Nama : reza Phonna
+hobby : Nonton
